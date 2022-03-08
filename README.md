@@ -1,4 +1,4 @@
-# Meal-App
+# React-Native-Meal-App
 This app is made using Expo Cli.
 
 The app is written in React Native.
